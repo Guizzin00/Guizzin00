@@ -18,8 +18,6 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 <br>
-Learning Python 🐍📚
-<br>
 Learning java ☕ 📚
 <br>
-Learning c 🅲 📚
+Learning c# 🅲 📚
